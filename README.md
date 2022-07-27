@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Navkiran Singh, a Full-Stack Developer 👨‍💻 </div>  
+### <div align="center">I'm Navkiran Singh, a Full-Stack Web Developer 👨‍💻 </div>  
   
 
 - 🌍I'm based in Canada  
