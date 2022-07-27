@@ -14,7 +14,7 @@
 <br/>  
 
 
-## My Skill Set  
+ 
 <h2 align='center'> My Skill set </h2>
  
 <div align="center">  
@@ -32,7 +32,7 @@
 <br/>  
 
 
-## Connect with me  
+<h2 align='center'> Connect With Me </h2>
 <div align="center">
 <a href="https://github.com/inavkiran" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,7 +49,7 @@
 <br/>  
 
 
-## Github Stats  
+<h2 align='center'> Github Stats </h2>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=inavkiran&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
